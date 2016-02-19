@@ -1,5 +1,11 @@
 This is Test File
+<<<<<<< HEAD
 Line changed
 line 3 added
 line 4 added
 
+=======
+Line modified
+line 3 added
+4th line added here
+>>>>>>> 9a8e539d11a5a683c871878c93b20e8da3f9e6c8
